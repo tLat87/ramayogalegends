@@ -15,9 +15,8 @@ const BottomTabRouter = () => {
           backgroundColor: '#000',
         },
         tabBarActiveTintColor: COLORS.primary,
-        // tabBarLabel: '',
+        tabBarLabel: '',
         tabBarLabelStyle: {
-          // marginBottom: -25,
         },
         headerShadowVisible: false,
         headerTitleStyle: {
